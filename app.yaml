@@ -1,0 +1,14 @@
+runtime: nodejs16
+
+instance_class: F2
+
+env_variables: 
+  BUCKET_NAME: "bridegroomsaloon"
+
+handlers:
+- url: /
+  static_files: dist/bride-groom-saloon-angular-app/index.html
+  upload: dist/bride-groom-saloon-angular-app/index.html
+
+- url: /
+  static_dir: dist/bride-groom-saloon-angular-app
