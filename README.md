@@ -25,3 +25,13 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+## To see the app workflow check this scribe link
+https://scribehow.com/shared/BrideandGroom_App_Workflow__jpblMe9bTP-X31vBz1GGLQ
+
+
+##Architecture
+
+<img width="416" alt="image" src="https://github.com/suriya-prakash-s/bride-groom-saloon/assets/126535913/f6d75352-64a8-4633-9fea-19f45073ae49">
+
